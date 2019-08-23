@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://aurelien_beliard/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://aurelien_beliard/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aurelien_beliard/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aurelien_beliard/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://aurelien_beliard/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aurelien_beliard/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aurelien_beliard/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://aurelien_beliard/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aurelien_beliard/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aurelien_beliard/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://aurelien_beliard/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aurelien_beliard/tags/"
+                />
+  </url>
+  
+</urlset>
