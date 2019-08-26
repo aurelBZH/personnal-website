@@ -53,11 +53,7 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github"
     weight = 1
     url = "https://github.com/aurelBZH"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -81,14 +77,24 @@ disqusShortname = "yourdiscussshortname"
         url = "cv/"
 
         [[languages.en.menu.main]]
-        name = "Blog"
+        name = "About"
+        weight = 1
+        url = "about/"
+
+        [[languages.en.menu.main]]
+        name = "articles"
         weight = 2
-        url = "posts/"
+        url = "articles/"
 
         [[languages.en.menu.main]]
         name = "Projects"
         weight = 3
         url = "projects/"
+       
+        [[languages.en.menu.main]]
+        name = "presentations"
+        weight = 4
+        url = "presentations/"
 
         [[languages.en.menu.main]]
         name = "Contact me"
